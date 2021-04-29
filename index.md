@@ -1,4 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to *Veronica Alejandra Caceres* github first WEBpage
+
+Here is the links to my [Google Scholar] (https://scholar.google.com/citations?user=-AitQYm-H10C&hl=fr&oi=ao).
+Now im adding a list of to do stuff on thi site.
+
+```markdown
+#To do:
+
+-Add presentation
+-Add CV
+-Add links to my pages
+-List Projects
+-Make it beautifull
+  1.Images
+  2.Template
+  3.Logos
+  4.Photos
+
+
+```
+![GregDunn](/Chaotic-Connectome-I-small-776x646.jpg) 
+
+
+Format: ![Alt Text](url)
+
+
+
+
+
+
+Im keeping the markdown instructions here bellow:
+
 
 You can use the [editor on GitHub](https://github.com/valejandracch/VACaceresWEBpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
